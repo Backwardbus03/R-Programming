@@ -1,0 +1,1 @@
+install.packages(c("palmerpenguins", "tidyverse", "e1071", "car", "effsize"))
